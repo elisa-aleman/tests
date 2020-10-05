@@ -1,0 +1,6 @@
+[submodule "Kaomoji-parsing"]
+	path = Kaomoji-parsing
+	url = https://github.com/elisa-aleman/Kaomoji-parsing
+[submodule "Kaomoji_parsing"]
+	path = Kaomoji_parsing
+	url = https://github.com/elisa-aleman/Kaomoji_parsing
